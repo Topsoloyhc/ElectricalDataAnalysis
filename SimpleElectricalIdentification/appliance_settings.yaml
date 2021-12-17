@@ -1,0 +1,8 @@
+appliances:
+    norun:
+        label: 0
+        status: no power
+    hairdryer:
+        label: 1
+        status: hair dryer 0-1
+
